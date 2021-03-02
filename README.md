@@ -1,2 +1,2 @@
-# DAA-Elab
-Solutions to SRMIST's E-lab. Collaborators are welcome. 
+# Competitive-Programming
+A collection of all the competitive programming questions we come across.
