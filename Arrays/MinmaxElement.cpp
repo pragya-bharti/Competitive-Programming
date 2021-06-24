@@ -1,3 +1,5 @@
+//Uses simple linear search to search for min and max element.
+
 #include<iostream>
 using namespace std;
 void maxelement(int array[], int size) //takes two elements array, and size of the Array
