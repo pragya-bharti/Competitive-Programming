@@ -1,4 +1,4 @@
-// This program displays the array in reverse order without actually storing the reversed values in the array.
+// This program displays the array in reverse order without actually storing the reversed values in the array
 
 #include<iostream>
 using namespace std;
