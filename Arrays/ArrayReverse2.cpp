@@ -1,4 +1,4 @@
-// This program using a second array to store the reversed values
+// This program using a second array to store the reversed values.
 
 #include<iostream>
 using namespace std;
