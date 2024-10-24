@@ -16,7 +16,8 @@ int main()
     for(i=0;  i<size; i++) //simultaneously stores in proper order in array and in reverse order in revarray
      {
        cin>>array[i];
-       revarray[(size-1)-i]=array[i];
+       x = size-1
+       revarray[x-i]=array[i];
      }
     cout<<"The entered array is: \n";
     for(i=0;i<size;i++)
